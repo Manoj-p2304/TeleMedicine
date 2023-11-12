@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2020-08-05"
+  },
+  "results": [
+    {
+      
+      "name": "Hand Sanitizer",
+      "itemId":1,
+      "qty":1,
+      "salePrice":"10",
+      "checked":0,
+      "description": "Used for washing hands",
+      "thumbnailImage":"https://www.performancehealth.com/media/catalog/product/cache/933c72112d518ec06f8b7477609fd2b9/0/8/081679927_md.jpg"
+    },
+    {
+      "name": "Oxygen",
+      "itemId":1,
+      "qty":1,
+      "salePrice":"5",
+      "checked":0
+    },
+    {
+      "name": "Ibuprofen",
+      "itemId":1,
+      "qty":1,
+      "salePrice":"45",
+      "checked":0
+    },
+    {
+      "name": "Gabapentin",
+      "itemId":1,
+      "qty":1,
+      "salePrice":"130",
+      "checked":0
+    },
+    {
+      "name": "Salicylic Acid",
+      "itemId":1,
+      "qty":1,
+      "salePrice":"580",
+      "checked":0
+    },
+    
+    {
+      "name": "HEADACHE",
+      "itemId":1,
+      "qty":1,
+      "salePrice":"9",
+      "checked":0
+    }
+  ]
+}
